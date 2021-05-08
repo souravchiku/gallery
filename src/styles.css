@@ -18,3 +18,9 @@
   width: 30%;
   margin: 5px;
 }
+.nav-wrapper {
+  margin-bottom: 0px;
+}
+.content {
+  text-align: center;
+}
